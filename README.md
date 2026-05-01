@@ -16,6 +16,8 @@ The script includes payloads for:
 - `i686`
 - `aarch64`
 
+![Demo](Demo.gif)
+
 ### Requirements
 
 - Linux.
@@ -135,6 +137,8 @@ El script incluye payloads para:
 - `x86_64`
 - `i686`
 - `aarch64`
+
+![Demo](Demo.gif)
 
 ### Requisitos
 
