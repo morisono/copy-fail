@@ -116,11 +116,11 @@ python3 -m unittest discover -s tests
 - `DISCLAIMER.md`: authorized-use disclaimer.
 - `CHANGELOG.md`: release history.
 - `CONTRIBUTING.md`: contribution guidelines.
-- `LICENSE`: license status placeholder.
+- `LICENSE`: MIT license.
 
 ### License
 
-No formal license has been selected yet. Until the copyright holder adds one, all rights are reserved.
+MIT License — Copyright (c) 2026 [Juguitos](https://github.com/Juguitos)
 
 ## Espanol
 
@@ -238,8 +238,8 @@ python3 -m unittest discover -s tests
 - `DISCLAIMER.md`: aviso de uso autorizado.
 - `CHANGELOG.md`: historial de cambios.
 - `CONTRIBUTING.md`: guia de contribucion.
-- `LICENSE`: estado actual de licencia.
+- `LICENSE`: licencia MIT.
 
 ### Licencia
 
-Todavia no se ha seleccionado una licencia formal. Hasta que el titular de derechos agregue una, todos los derechos quedan reservados.
+Licencia MIT — Copyright (c) 2026 [Juguitos](https://github.com/Juguitos)
